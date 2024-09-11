@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(30, 29, 29);
+    padding: 0px;
+}
+
+
+#para{
+ font-size: larger;
+  
+  margin-left: 600px;
+ 
+}
+#language{
+    background-color: aquamarine;
+    font-size: larger;
+    border-radius: 10px;
+   
+}
+#select{
+    font-size: larger;
+}
+#btn{
+    font-size: larger;
+    background-color: aquamarine;
+}
+p{
+    font-size: 50px;
+    color: azure;
+    margin-left: 500px;
+   
+    
+}
+h2{
+    color: azure;
+}
