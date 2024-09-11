@@ -30,3 +30,10 @@ and on http://localhost:5000/hello?language=English the desire output is achieve
 for Testing the API locally Postman is used
 
 ```
+
+Screenshots
+![Screenshot 2024-09-12 044411](https://github.com/user-attachments/assets/f72bf2a1-0136-4da0-8a5b-74aa1d3f0d83)
+
+![Screenshot 2024-09-12 044505](https://github.com/user-attachments/assets/3292ce16-830e-43fa-85d1-ce3bb040cab5)
+
+![Screenshot 2024-09-12 044541](https://github.com/user-attachments/assets/5752eb72-5ad9-4afc-9057-a4c6f5cc5356)
